@@ -1,6 +1,7 @@
 here I cleaned the info and resume files:
 
 for info, I cleaned strings, deleted republicates, and got information such as:
+  
   -gender
 
   -ethnic
