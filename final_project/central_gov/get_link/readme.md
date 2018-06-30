@@ -1,5 +1,7 @@
-Here I scrape for each leader's
+Here I scrape for each leader's:
   1. name
   2. url to detailed information
-  
-source: http://cpc.people.com.cn/GB/64162/394696/index.html
+
+To do that, first I scraped for links of each province, they got every leader in every province
+
+source: http://ldzl.people.com.cn/dfzlk/front/firstPage.htm
